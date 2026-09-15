@@ -1,25 +1,6 @@
 [
   {
     "id": "valorant-scrims-competitive-hub-discord-20260915-1",
-    "title": "OpenAI Official Discord",
-    "platform": "Discord",
-    "category": "Generative AI",
-    "memberCount": "550,000+ members",
-    "description": "Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.",
-    "joinUrl": "https://discord.gg/openai",
-    "tags": [
-      "openai",
-      "chatgpt",
-      "api",
-      "discord"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": true,
-    "lastUpdated": "2026-09-15"
-  },
-  {
-    "id": "valorant-scrims-competitive-hub-discord-20260914-p1",
     "title": "Valorant Official Esports Discord",
     "platform": "Discord",
     "category": "Competitive Esports",
@@ -34,8 +15,8 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": false,
-    "lastUpdated": "2026-09-14"
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-15"
   },
   {
     "id": "valorant-scrims-competitive-hub-reddit-20260914-1",
