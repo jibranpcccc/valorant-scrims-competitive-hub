@@ -4,10 +4,17 @@
     <title>Valorant Scrims &amp; Premier Teams Hub</title>
     <link>https://jibranpcccc.github.io/valorant-scrims-competitive-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:01:40 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/valorant-scrims-competitive-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
+      <link>https://t.me/devops_channel</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-telegram-20261011-1-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 06:01:40 GMT</pubDate>
+      <description>Newly verified community added to Valorant Scrims &amp; Premier Teams Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Kubernetes Community Discord (Discord)</title>
       <link>https://discuss.kubernetes.io</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-discord-20261010-1-2026-10-10</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-reddit-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:07:29 GMT</pubDate>
       <description>Newly verified community added to Valorant Scrims &amp; Premier Teams Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/MachineLearning Research (Reddit)</title>
-      <link>https://www.reddit.com/r/MachineLearning/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-reddit-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 14:03:11 GMT</pubDate>
-      <description>Newly verified community added to Valorant Scrims &amp; Premier Teams Hub: Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.</description>
     </item>
   </channel>
 </rss>
