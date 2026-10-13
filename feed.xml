@@ -4,10 +4,17 @@
     <title>Valorant Scrims &amp; Premier Teams Hub</title>
     <link>https://jibranpcccc.github.io/valorant-scrims-competitive-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:01:40 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/valorant-scrims-competitive-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                <item>
+                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
+      <link>https://t.me/cloud_native_hub</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-telegram-20261013-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:01:40 GMT</pubDate>
+      <description>Newly verified community added to Valorant Scrims &amp; Premier Teams Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
       <link>https://t.me/devops_channel</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-telegram-20261011-1-2026-10-11</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-reddit-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 10:45:47 GMT</pubDate>
       <description>Newly verified community added to Valorant Scrims &amp; Premier Teams Hub: Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/LocalLLaMA Open Models (Reddit)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-reddit-20260914-1-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 06:07:29 GMT</pubDate>
-      <description>Newly verified community added to Valorant Scrims &amp; Premier Teams Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
     </item>
   </channel>
 </rss>
