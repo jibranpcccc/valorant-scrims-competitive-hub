@@ -4,10 +4,17 @@
     <title>Valorant Scrims &amp; Premier Teams Hub</title>
     <link>https://jibranpcccc.github.io/valorant-scrims-competitive-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:01:40 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/valorant-scrims-competitive-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/homelab Infrastructure Guild (Reddit)</title>
+      <link>https://www.reddit.com/r/homelab/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-reddit-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:01:40 GMT</pubDate>
+      <description>Newly verified community added to Valorant Scrims &amp; Premier Teams Hub: Showcase and support forum for homelab builders running enterprise rack servers, Proxmox hypervisors, ZFS storage, and 10GbE networking.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/selfhosted Sovereign Cloud (Reddit)</title>
       <link>https://www.reddit.com/r/selfhosted/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-reddit-20261017-1-2026-10-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-discord-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:15:45 GMT</pubDate>
       <description>Newly verified community added to Valorant Scrims &amp; Premier Teams Hub: Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Valorant Official Esports Discord (Discord)</title>
-      <link>https://discord.gg/valorant</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/valorant-scrims-competitive-hub/#valorant-scrims-competitive-hub-discord-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
-      <description>Newly verified community added to Valorant Scrims Competitive Hub: The official Discord community for Valorant competitive players, team recruitment, scrim finding, patch discussions, and Premier league coordination.</description>
     </item>
   </channel>
 </rss>
