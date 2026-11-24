@@ -1,5 +1,24 @@
 [
   {
+    "id": "valorant-scrims-premier-teams-hub-reddit-7",
+    "title": "r/Python Developer Community",
+    "platform": "Reddit",
+    "category": "Python Development",
+    "memberCount": "1,250,000+ members",
+    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
+    "joinUrl": "https://www.reddit.com/r/Python/",
+    "tags": [
+      "python",
+      "backend",
+      "software-engineering",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "valorant-scrims-premier-teams-hub-forum-6",
     "title": "Hacker News Community",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -777,24 +796,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "valorant-scrims-premier-teams-hub-reddit-7",
-    "title": "r/Python Developer Community",
-    "platform": "Reddit",
-    "category": "Python Development",
-    "memberCount": "1,250,000+ members",
-    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
-    "joinUrl": "https://www.reddit.com/r/Python/",
-    "tags": [
-      "python",
-      "backend",
-      "software-engineering",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "valorant-scrims-premier-teams-hub-discord-8",
